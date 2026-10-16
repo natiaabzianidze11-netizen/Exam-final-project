@@ -1,0 +1,58 @@
+Initialized empty Git repository in /Users/natiaabzianidze/Desktop/git-task/exam-project/.git/
+[main (root-commit) ba6d634] Initial commit: setup project structure
+ 2 files changed, 17 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 index.html
+To https://github.com/natiaabzianidze11-netizen/Exam-final-project.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+Switched to a new branch 'feature-header'
+[feature-header c3f9ec2] Add header component to index.html
+ 1 file changed, 3 insertions(+)
+remote: 
+remote: Create a pull request for 'feature-header' on GitHub by visiting:        
+remote:      https://github.com/natiaabzianidze11-netizen/Exam-final-project/pull/new/feature-header        
+remote: 
+To https://github.com/natiaabzianidze11-netizen/Exam-final-project.git
+ * [new branch]      feature-header -> feature-header
+branch 'feature-header' set up to track 'origin/feature-header'.
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+Updating ba6d634..c3f9ec2
+Fast-forward
+ index.html | 3 +++
+ 1 file changed, 3 insertions(+)
+To https://github.com/natiaabzianidze11-netizen/Exam-final-project.git
+   ba6d634..c3f9ec2  main -> main
+Cloning into '../exam-project-clone'...
+Already up to date.
+Switched to a new branch 'nav-feature'
+[nav-feature cfa688b] Add primary navigation menu
+ 1 file changed, 3 insertions(+)
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+Switched to a new branch 'nav-alt'
+[nav-alt 966980a] Add alternative navigation menu
+ 1 file changed, 3 insertions(+)
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+Updating c3f9ec2..cfa688b
+Fast-forward
+ index.html | 3 +++
+ 1 file changed, 3 insertions(+)
+Auto-merging index.html
+CONFLICT (content): Merge conflict in index.html
+Automatic merge failed; fix conflicts and then commit the result.
+[main 79f506f] Resolve merge conflict between nav-feature and nav-alt
+To https://github.com/natiaabzianidze11-netizen/Exam-final-project.git
+   c3f9ec2..79f506f  main -> main
+To https://github.com/natiaabzianidze11-netizen/Exam-final-project.git
+ * [new branch]      nav-feature -> nav-feature
+ * [new branch]      nav-alt -> nav-alt
+*   79f506f Resolve merge conflict between nav-feature and nav-alt
+|\  
+| * 966980a Add alternative navigation menu
+* | cfa688b Add primary navigation menu
+|/  
+* c3f9ec2 Add header component to index.html
+* ba6d634 Initial commit: setup project structure
